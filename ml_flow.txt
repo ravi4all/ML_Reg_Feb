@@ -1,0 +1,30 @@
+Data Analysis
+Numpy - Numerical Python (n-dimensional array)
+Pandas - Data Analysis
+
+Data Visualization
+Matplotlib/Seaborn/bokeh
+Plots/Bar Chart/Scatter
+
+Data Preprocessing
+Data Cleaning
+Feature Scaling
+Label Encoders
+Train Test Split
+
+Machine Learning
+Anaconda
+
+Supervised Learning
+
+Unsupervised Learning
+
+Deep Learning	Tensorflow and Keras
+Neural Networks
+Artificial Neural Nets
+Convolutional Neural Nets
+Recurrent Neural Nets
+
+Autoencoders
+Self Organized Maps
+Boltzman Machine
