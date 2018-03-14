@@ -1,0 +1,11 @@
+Data Preprocessing
+
+Label Encoding
+Feature Scaling
+Handle Missing Data
+Train Test Split
+
+Country - Ind Pak China - 0 1 2
+Ind 	Pak 	China	gold	silver 
+0	0	1	--------------
+1	0 	0	--------------
